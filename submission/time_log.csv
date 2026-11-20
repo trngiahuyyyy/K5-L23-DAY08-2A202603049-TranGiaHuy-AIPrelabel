@@ -1,2 +1,3 @@
 step,images,minutes,note
-gold_manual,4,22,gan tay 4 anh gold bang Rectangle trong CVAT; khong dung AI
+gold_manual,4,40,gan tay 4 anh gold bang Rectangle trong CVAT; khong dung AI
+batch_review,24,70,check lai sau khi dung model
